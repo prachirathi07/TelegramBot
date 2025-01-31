@@ -1,0 +1,10 @@
+python-telegram-bot==20.8
+pymongo==4.6.1
+python-dotenv==1.0.0
+google-generativeai
+Pillow  # for image handling
+requests
+beautifulsoup4
+PyMuPDF
+psutil
+google-search-results
